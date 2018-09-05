@@ -2,122 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/about/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/overview/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lamp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/mysql_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/lnmp_install/</loc>
-     <lastmod>2018-07-01</lastmod>
+     <loc>/exp/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
